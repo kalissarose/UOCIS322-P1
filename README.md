@@ -7,7 +7,7 @@ Tiny web server in Python that serves .html and .css files
 
 Author: Kalissa Concepcion
 
-Contact info: kalissarose@uoregon.edu
+Contact info: kalissac@uoregon.edu
 
 ### Credits ###
 
